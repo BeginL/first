@@ -1,4 +1,4 @@
-package lt.vcd;
+package lt.vcd.homework;
 
 import java.util.Scanner;
 
