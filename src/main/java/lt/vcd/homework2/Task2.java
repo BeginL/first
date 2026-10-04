@@ -24,15 +24,15 @@ public class Task2 {
 
         if (m == 60) {
             m = 0;
-            m = m + 1;
+            h = h + 1;
         }
 
         if (h == 24) {
             h = 0;
         }
 
-        System.out.println(h + " " + m + " " + s);
+        System.out.printf("%02d:%02d:%02d%n", h, m, s);
 
-        sc.close();''
+        sc.close();
     }
 }
