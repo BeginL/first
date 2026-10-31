@@ -20,6 +20,7 @@ public class Task1 {
         if (m <= 0 && s < p) {
             System.out.println("Weekly savings should be positive!");
         } else {
+
             while (s < p) {
                 s += m;
                 k++;
@@ -28,3 +29,4 @@ public class Task1 {
         }
     }
 }
+
