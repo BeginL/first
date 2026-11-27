@@ -1,4 +1,4 @@
-package lt.vcd.homework9;
+package lt.vcd.homework9.task1;
 
 import java.util.StringJoiner;
 

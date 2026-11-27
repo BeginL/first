@@ -1,7 +1,7 @@
-package lt.vcd.homework9;
+package lt.vcd.homework9.task1;
 
 public class Main {
-    public static void main(String[] args) throws Exception {
+    static void main(String[] args) throws Exception {
         OMasyvas<String> words = new OMasyvas<>(3);
 
         words.set(0, "value1");
